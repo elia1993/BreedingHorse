@@ -1,0 +1,10 @@
+CREATE TABLE trainer(
+    id varchar(50),
+    fullName varchar(50),
+    bithDate varchar(50),
+    workerId varchar(50),
+    salary varchar(50),
+    rank varchar(50),
+    horse_id varchar(50) NULL,
+    PRIMARY KEY(id)
+    )

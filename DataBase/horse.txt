@@ -1,0 +1,14 @@
+CREATE TABLE horse(
+    identifierSerial varchar(50)  NOT NULL,
+    nickName varchar(50),
+    birthDate varchar(50),
+    weight double,
+    gender varchar(50),
+    color varchar(50),
+    price double,
+    genre varchar(50),
+    revenue double,
+    totalParticipatesTimes int(50),
+trainer_id varchar(50) NULL,
+    PRIMARY KEY(identifierSerial)
+    )
