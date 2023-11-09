@@ -1,12 +1,5 @@
 # BreedingHorse
-
-The system is for breeding horse and competition.
-It's an information management system for trainers, veterinarians, equestrians, bookmakers, gamblers, and horses.
-You can add/remove trainers, veterinarians, equestrians, bookmakers, gamblers, and horses.
-You need to associate horses with a trainer.
-There are competitions for horses. You can register or unregister a horse for a competition, and gamblers can place bets on a horse in a competition.
-There is an action and a reports tab. In action tab, you can find the best horse. You can give a bonus to veterinarians, and you can identify unlucky gamblers who lost their bets.
-In reports tab you can print the top 10 horses, print all person, print all horses, print all gamblers, print all bookmakers.
+The system is designed for breeding horses and competitions. It's an information management system for trainers, veterinarians, equestrians, bookmakers, gamblers, and horses. You can add or remove trainers, veterinarians, equestrians, bookmakers, gamblers, and horses. You need to associate horses with a trainer. There are competitions for horses, and you can register or unregister a horse for a competition. Gamblers can place bets on a horse in a competition. The system has both an 'Action' and a 'Reports' tab. In the 'Action' tab, you can find the best horse, give a bonus to veterinarians, and identify unlucky gamblers who lost their bets. In the 'Reports' tab, you can print the top 10 horses, print all persons, print all horses, print all gamblers, and print all bookmakers.
 ![image](https://github.com/elia1993/BreedingHorse/assets/77536857/9682e3ab-cd36-4062-94bd-195758092790)
 ![image](https://github.com/elia1993/BreedingHorse/assets/77536857/14e53dca-f138-4e71-8a03-9ee0073a9649)
 ![image](https://github.com/elia1993/BreedingHorse/assets/77536857/1db57cf5-4c47-49d0-b39c-9b628c2ebad2)
